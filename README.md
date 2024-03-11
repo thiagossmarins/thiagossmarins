@@ -1,9 +1,16 @@
+## Olá, eu sou Thiago Marins 👋
+
+Olá! Sou Thiago, sou apaixonado por tecnologia e focado em me tornar um Desenvolvedor Front-End. Com apenas 17 anos, estou imerso no universo do JavaScript e React, buscando criar soluções web envolventes e inovadoras. Ansioso para contribuir com minha energia e criatividade para impulsionar o design e a inovação no mundo digital!👩🏻‍💻
+
+<br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagossmarins&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=956AF0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagossmarins&layout=compact&hide_border=true&title_color=9370DB&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagossmarins&show_icons=true&count_private=true&hide_border=true&title_color=14C4EB&icon_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagossmarins&layout=compact&hide_border=true&title_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" />
 </div>
- 
+
+<br>
+
  ### Tecnologias:
 <div style="display: inline_block"><br>
       <img align="center" alt="Rafa-Js" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
