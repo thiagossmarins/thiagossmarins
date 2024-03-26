@@ -15,9 +15,11 @@ Olá! Sou Thiago, sou apaixonado por tecnologia e focado em me tornar um Desenvo
 <div style="display: inline_block">
       <br>
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
       <img align="center" alt="Rafa-Js" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  
 </div>
 
 
