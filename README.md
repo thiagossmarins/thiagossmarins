@@ -1,6 +1,6 @@
 ## Olá, eu sou Thiago Marins 👋
 
-Olá! Sou Thiago, sou apaixonado por tecnologia e focado em me tornar um Desenvolvedor Front-End. Com apenas 17 anos, estou imerso no universo do JavaScript e React, buscando criar soluções web envolventes e inovadoras. Ansioso para contribuir com minha energia e criatividade para impulsionar o design e a inovação no mundo digital!👩🏻‍💻
+Olá! Sou Thiago, sou apaixonado por tecnologia e focado em me tornar um Desenvolvedor Front-End. Com apenas 18 anos, estou imerso no universo do JavaScript e React, buscando criar soluções web envolventes e inovadoras. Ansioso para contribuir com minha energia e criatividade para impulsionar o design e a inovação no mundo digital!👩🏻‍💻
 
 <br>
 
