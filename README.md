@@ -21,6 +21,7 @@ Olá! Sou Thiago, sou apaixonado por tecnologia e focado em me tornar um Desenvo
       <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
       <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
 
