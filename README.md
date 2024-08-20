@@ -10,5 +10,3 @@ Olá! Meu nome é Thiago Marins tenho 18 anos e sou um desenvolvedor front-end, 
 </div>
 
 <br>
-
- ### Conhecimentos:
