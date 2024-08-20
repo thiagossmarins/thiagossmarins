@@ -12,16 +12,3 @@ Olá! Meu nome é Thiago Marins tenho 18 anos e sou um desenvolvedor front-end, 
 <br>
 
  ### Conhecimentos:
-<div style="display: inline_block;">
-      <br>
-      <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" height="35" width="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
-      <img align="center" height="35" width="50" src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg>
-      <img align="center" height="35" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-      <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-      <img align="center" height="50" width="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
-
-
