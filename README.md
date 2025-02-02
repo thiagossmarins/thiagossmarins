@@ -14,10 +14,10 @@
  ### Conhecimentos:
 <div style="display: inline_block;">
       <br>
-      <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
       <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+      <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
       <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" height="50" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-      <img align="center" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
