@@ -5,8 +5,8 @@
 <p>Atualmente atuo como desenvolvedor full-stack, mas meu objetivo é construir carreira como desenvolvedor mobile. Por isso, estou estudando React Native, com foco no desenvolvimento de aplicativos cross-platform que gerem impacto e resolvam as dores reais do mercado.</p>
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagossmarins&show_icons=true&count_private=true&&include_all_commits=true&hide_border=true&title_color=14C4EB&icon_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" alt="Thiago Marins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagossmarins&layout=compact&hide_border=true&title_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" />
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagossmarins&show_icons=true&count_private=true&&include_all_commits=true&hide_border=true&title_color=14C4EB&icon_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" alt="Thiago Marins github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagossmarins&layout=compact&hide_border=true&title_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" />
 </div>
 
 <br>
