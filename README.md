@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Atuo como desenvolvedor full stack, mas estou me dedicando a estudos para transicionar para a área de desenvolvimento mobile</p>
+<p>Atualmente atuo como desenvolvedor full-stack, mas meu objetivo é construir carreira como desenvolvedor mobile. Por isso, estou estudando React Native, com foco no desenvolvimento de aplicativos cross-platform que gerem impacto e resolvam as dores reais do mercado.</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagossmarins&show_icons=true&count_private=true&hide_border=true&title_color=14C4EB&icon_color=14C4EB&text_color=c9d1d9&bg_color=1D1E1F" alt="Caroline Barbosa github stats" /> 
