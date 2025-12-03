@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Atualmente atuo como desenvolvedor full-stack, mas meu objetivo é construir carreira como desenvolvedor mobile. Por isso, estou estudando React Native, com foco no desenvolvimento de aplicativos cross-platform que gerem impacto e resolvam as dores reais do mercado.</p>
+<p>Atualmente trabalho como desenvolvedor full-stack, com 1.6 anos de experiência, meu foco atualmente está no desenvolvimento mobile. Tenho aprofundado meus estudos em React Native para criar aplicativos cross-platform que gerem impacto e resolvam problemas reais do mercado.</p>
 
 <br>
 
@@ -20,15 +20,6 @@
   &nbsp;
   <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="margin-right: 32px;">
   &nbsp;
-  <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 32px;">
-  &nbsp;
-  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="margin-right: 32px;">
-  &nbsp;
   <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="margin-right: 32px;">
   &nbsp;
-  <img height="45" width="45" src="https://camo.githubusercontent.com/4be49000a623aaf885b10cad79e304b6dc2c62841cbb9f3cdb24f9534df02689/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667" style="margin-right: 32px;">
-  &nbsp;
-  <img height="45" width="50" src="https://camo.githubusercontent.com/de00f05b84b8b4729c5165dd2011651ab93d617a27ec5301823610f9e1733879/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d706c61696e2d776f72646d61726b2e737667" style="margin-right: 32px;">
-  &nbsp;
-  <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
