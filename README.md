@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Atualmente trabalho como desenvolvedor full-stack, com 1.6 anos de experiência, meu foco atualmente está no desenvolvimento mobile. Tenho aprofundado meus estudos em React Native para criar aplicativos cross-platform que gerem impacto e resolvam problemas reais do mercado.</p>
+<p>Atualmente trabalho como desenvolvedor full-stack, com quase 2 anos de experiência, meu foco atualmente está no desenvolvimento mobile. Tenho aprofundado meus estudos em React Native para criar aplicativos cross-platform que gerem impacto e resolvam problemas reais do mercado.</p>
 
 <br>
 
