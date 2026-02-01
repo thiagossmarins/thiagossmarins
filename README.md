@@ -22,4 +22,10 @@
   &nbsp;
   <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="margin-right: 32px;">
   &nbsp;
+  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="margin-right: 32px;">
+  &nbsp;
+  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="margin-right: 32px;">
+  &nbsp;
+  <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 32px;">
+  &nbsp;
 </div>
